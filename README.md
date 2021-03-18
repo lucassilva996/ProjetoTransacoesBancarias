@@ -1,4 +1,4 @@
-# Cadastro Simples de Contas - POO
+# Transações Bancárias - POO
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/lucassilva996/ProjetoTransacoesBancarias)
 ![GitHub language count](https://img.shields.io/github/languages/count/lucassilva996/ProjetoTransacoesBancarias?style=plastic)
 ![GitHub top language](https://img.shields.io/github/languages/top/lucassilva996/ProjetoTransacoesBancarias?style=plastic)
