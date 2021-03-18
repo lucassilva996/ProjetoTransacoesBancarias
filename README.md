@@ -4,7 +4,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/lucassilva996/ProjetoTransacoesBancarias?style=plastic)
 
 <p align="center">
-  <img width="470" src="assets/to_readme/index.png">
+  <img width="470" src="assets/to_readme/telainicial.png">
 </p>
 
 ## Descrição
