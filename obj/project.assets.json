@@ -8,24 +8,26 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Dani\\.nuget\\packages\\": {}
+    "C:\\Users\\usuario\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dani\\Documents\\dotnet\\Lucds.Bank\\Lucds.Bank.csproj",
+      "projectUniqueName": "C:\\Users\\usuario\\Documents\\dev\\Digital Innovation One - Bootcamp\\ProjetoTransacoesBancarias\\Lucds.Bank.csproj",
       "projectName": "Lucds.Bank",
-      "projectPath": "C:\\Users\\Dani\\Documents\\dotnet\\Lucds.Bank\\Lucds.Bank.csproj",
-      "packagesPath": "C:\\Users\\Dani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dani\\Documents\\dotnet\\Lucds.Bank\\obj\\",
+      "projectPath": "C:\\Users\\usuario\\Documents\\dev\\Digital Innovation One - Bootcamp\\ProjetoTransacoesBancarias\\Lucds.Bank.csproj",
+      "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\usuario\\Documents\\dev\\Digital Innovation One - Bootcamp\\ProjetoTransacoesBancarias\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Dani\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

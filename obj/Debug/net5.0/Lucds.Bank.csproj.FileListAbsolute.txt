@@ -14,3 +14,19 @@ C:\Users\Dani\Documents\dotnet\Lucds.Bank\obj\Debug\net5.0\Lucds.Bank.dll
 C:\Users\Dani\Documents\dotnet\Lucds.Bank\obj\Debug\net5.0\ref\Lucds.Bank.dll
 C:\Users\Dani\Documents\dotnet\Lucds.Bank\obj\Debug\net5.0\Lucds.Bank.pdb
 C:\Users\Dani\Documents\dotnet\Lucds.Bank\obj\Debug\net5.0\Lucds.Bank.genruntimeconfig.cache
+C:\Users\usuario\Documents\dev\Digital Innovation One - Bootcamp\ProjetoTransacoesBancarias\bin\Debug\net5.0\Lucds.Bank.exe
+C:\Users\usuario\Documents\dev\Digital Innovation One - Bootcamp\ProjetoTransacoesBancarias\bin\Debug\net5.0\Lucds.Bank.deps.json
+C:\Users\usuario\Documents\dev\Digital Innovation One - Bootcamp\ProjetoTransacoesBancarias\bin\Debug\net5.0\Lucds.Bank.runtimeconfig.json
+C:\Users\usuario\Documents\dev\Digital Innovation One - Bootcamp\ProjetoTransacoesBancarias\bin\Debug\net5.0\Lucds.Bank.runtimeconfig.dev.json
+C:\Users\usuario\Documents\dev\Digital Innovation One - Bootcamp\ProjetoTransacoesBancarias\bin\Debug\net5.0\Lucds.Bank.dll
+C:\Users\usuario\Documents\dev\Digital Innovation One - Bootcamp\ProjetoTransacoesBancarias\bin\Debug\net5.0\ref\Lucds.Bank.dll
+C:\Users\usuario\Documents\dev\Digital Innovation One - Bootcamp\ProjetoTransacoesBancarias\bin\Debug\net5.0\Lucds.Bank.pdb
+C:\Users\usuario\Documents\dev\Digital Innovation One - Bootcamp\ProjetoTransacoesBancarias\obj\Debug\net5.0\Lucds.Bank.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\dev\Digital Innovation One - Bootcamp\ProjetoTransacoesBancarias\obj\Debug\net5.0\Lucds.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\dev\Digital Innovation One - Bootcamp\ProjetoTransacoesBancarias\obj\Debug\net5.0\Lucds.Bank.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\dev\Digital Innovation One - Bootcamp\ProjetoTransacoesBancarias\obj\Debug\net5.0\Lucds.Bank.AssemblyInfo.cs
+C:\Users\usuario\Documents\dev\Digital Innovation One - Bootcamp\ProjetoTransacoesBancarias\obj\Debug\net5.0\Lucds.Bank.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\dev\Digital Innovation One - Bootcamp\ProjetoTransacoesBancarias\obj\Debug\net5.0\Lucds.Bank.dll
+C:\Users\usuario\Documents\dev\Digital Innovation One - Bootcamp\ProjetoTransacoesBancarias\obj\Debug\net5.0\ref\Lucds.Bank.dll
+C:\Users\usuario\Documents\dev\Digital Innovation One - Bootcamp\ProjetoTransacoesBancarias\obj\Debug\net5.0\Lucds.Bank.pdb
+C:\Users\usuario\Documents\dev\Digital Innovation One - Bootcamp\ProjetoTransacoesBancarias\obj\Debug\net5.0\Lucds.Bank.genruntimeconfig.cache
